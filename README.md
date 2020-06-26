@@ -8,7 +8,7 @@ The Emerging Technology team has partnerships with:
 | Institution | Type of work | Link |
 | -- | - | - |
 | [UCL](https://ucl.ac.uk) | We partner with UCL via their Industry Exchange Network, to research and test the latest technology for business application and adoption. | [Our projects with UCL](./ucl/projects.md) |
-| [University of Exeter Business School](http://business-school.exeter.ac.uk/) | We partner with the Sustainable MBA program at the University of Exeter Business school, to explore and apply business concepts including the circular supply chain. | [Our projects with the University of Exeter](./exeter/projects.md) |
+| [University of Exeter Business School](http://business-school.exeter.ac.uk/) | We partner with the Exeter MBA program at the University of Exeter Business school, to explore and apply business concepts including the circular supply chain. | [Our projects with the University of Exeter](./exeter/projects.md) |
 
 # Other information
 

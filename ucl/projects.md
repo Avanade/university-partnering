@@ -1,6 +1,6 @@
 # EmTech University Partnering with UCL
 
-The Emerging Technology team at Avanade partners with UCL via the Industry Exchange network, and Dr Dean Mohamedally.
+The Emerging Technology team at Avanade partners with UCL via the Industry Exchange network [(UCL IXN)](https://www.ucl.ac.uk/computer-science/collaborate/ucl-industry-exchange-network-ucl-ixn), and Dr Dean Mohamedally.
 
 The projects we work on with UCL relate to our [Avanade Trendlines](https://www.avanade.com/en/thinking/research-and-insights/trendlines).
 
@@ -20,7 +20,7 @@ In the 2019/2020 academic year, we partnered on the following projects:
 
 ### Post-graduate projects - 2020/21
 
-We are currently working on projects with UCL students on the MSc program in the following areas:
+We are currently working on projects with UCL students on their MSc Computer Science programme in the following areas:
 
 | Project Topic                                                                                                                                                 | Avanade Trendline              | Topic                                           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ | ----------------------------------------------- |

@@ -8,6 +8,16 @@ The projects we work on with UCL relate to our [Avanade Trendlines](https://www.
 
 ### Undergraduate
 
+#### 2020/21
+In the 2020/2021 academic year, we partnered on the following projects:
+
+| Title |Description| Team | Link
+|---|---|---|---
+|vizAI|Visualisation techniques for understandable and explainable AI|Julain Popovski-Jones, James Chang, Dylan Hoi|[GitHub Repository](https://github.com/deCourier/vizAI)
+|AvaBot|A chatbot assistant specialising in document handling for workplace assistance | Zihan Zhu, Davit Mirzoyan, Chaozy Zhu|[GitHub Repository](https://github.com/UCLComputerScience/COMP0016_2020_21_Team8)
+|Inclusive Hiring Pipeline|Demystfying inclusivity in hiring by automatically removing bias from applications and CVs|Zikan Wu, Jingfan Wu, Sung-Hyun Hang|[GitHub Repository](https://github.com/UCLComputerScience/COMP0016_2020_21_Team9)
+|Recyclone|Innovative approaches to user interaces and gamification to encourage recycling practices|Kefeng Huang,Ali Reyazat, Kim Sangyoon|
+
 #### 2019/20
 
 In the 2019/2020 academic year, we partnered on the following projects:
@@ -19,8 +29,6 @@ In the 2019/2020 academic year, we partnered on the following projects:
 | Archi-Lens: Blockchain & Physical Digital Reality | Using blockchain to anchor augmented reality objects to the real world, and track construction projects against their project plans. | Ben Ismaili, Lim Zi Lian, and Yi Luk Goh     |
 
 ### Post-graduate projects - 2020/21
-
-We are currently working on projects with UCL students on their MSc Computer Science programme in the following areas:
 
 | Project Topic                                                                                                                                                 | Avanade Trendline              | Topic                                           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ | ----------------------------------------------- |

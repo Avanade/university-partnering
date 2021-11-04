@@ -6,29 +6,33 @@ The projects we work on with UCL relate to our [Avanade Trendlines](https://www.
 
 ## Project Types
 
-### Undergraduate
+### 2021/22
+
+#### Undergraduate Projects
+
+| Title                               | Description                                                                                                                                                                                  | Team                                       | Avande Trendline               |
+| ----------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------------------ | ------------------------------ |
+| Automated 3D object generation      | Using AI and ML along with 3D modelling and procedural generation to more accurately model real physical spaces for the virtual world. Using floor plans, photos, images, random generation. | Oscar Leong, Eileen Sugrue, Wenxuan Wei    | Experiences Without Boundaries |
+| Microsoft Farm Beats - what's next? | An evaluation of Microsoft Farm Beats in its current state, and suggestions to extend and improve the content with up to date services and technologies.                                     | Szymon Duchniewic, Angela Yu, Tianchi Chen |
+
+### Postgraduate projects
+
+| Title          | Description                                                                                                                   | Team      | Avande Trendline      |
+| -------------- | ----------------------------------------------------------------------------------------------------------------------------- | --------- | --------------------- |
+| Explainable AI | Assessment of Explainable AI tools, specifically as applied to decisions made by AI tools developed for software engineering. | Shin Chen | Take Action on Ethics |
 
 #### 2020/21
-In the 2020/2021 academic year, we partnered on the following projects:
 
-| Title |Description| Team | Link
-|---|---|---|---
-|vizAI|Visualisation techniques for understandable and explainable AI|Julain Popovski-Jones, James Chang, Dylan Hoi|[GitHub Repository](https://github.com/deCourier/vizAI)
-|AvaBot|A chatbot assistant specialising in document handling for workplace assistance | Zihan Zhu, Davit Mirzoyan, Chaozy Zhu|[GitHub Repository](https://github.com/UCLComputerScience/COMP0016_2020_21_Team8)
-|Inclusive Hiring Pipeline|Demystfying inclusivity in hiring by automatically removing bias from applications and CVs|Zikan Wu, Jingfan Wu, Sung-Hyun Hang|[GitHub Repository](https://github.com/UCLComputerScience/COMP0016_2020_21_Team9)
-|Recyclone|Innovative approaches to user interaces and gamification to encourage recycling practices|Kefeng Huang,Ali Reyazat, Kim Sangyoon|
+#### Undergraduate Projects
 
-#### 2019/20
+| Title                     | Description                                                                                | Team                                          | Link                                                                              |
+| ------------------------- | ------------------------------------------------------------------------------------------ | --------------------------------------------- | --------------------------------------------------------------------------------- |
+| vizAI                     | Visualisation techniques for understandable and explainable AI                             | Julain Popovski-Jones, James Chang, Dylan Hoi | [GitHub Repository](https://github.com/deCourier/vizAI)                           |
+| AvaBot                    | A chatbot assistant specialising in document handling for workplace assistance             | Zihan Zhu, Davit Mirzoyan, Chaozy Zhu         | [GitHub Repository](https://github.com/UCLComputerScience/COMP0016_2020_21_Team8) |
+| Inclusive Hiring Pipeline | Demystfying inclusivity in hiring by automatically removing bias from applications and CVs | Zikan Wu, Jingfan Wu, Sung-Hyun Hang          | [GitHub Repository](https://github.com/UCLComputerScience/COMP0016_2020_21_Team9) |
+| Recyclone                 | Innovative approaches to user interaces and gamification to encourage recycling practices  | Kefeng Huang,Ali Reyazat, Kim Sangyoon        |
 
-In the 2019/2020 academic year, we partnered on the following projects:
-
-| Title                                             | Description                                                                                                                          | Team                                         | Link                                                                                         |
-| ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------- | -------------------------------------------------------------------------------------------- |
-| Gamification of Learning                          | Exploring Situated Cognition in Education using Virtual Reality with Microsoft Azure & Unity.                                        | Andrei Lazar, Emil Almazov, and Yaoning Yang | [Repository at the Apperta Foundation](https://github.com/AppertaFoundation/IXN_Learning360) |
-| Wearables and the Modern Workplace                | Using wearables to improve resource allocations in the Modern Workplace                                                              | Valentin Gorbunov, Yusen Li, and Yuxuan Liao | [GitHub Repository](https://github.com/Shadowhusky/SmartWorkSpace)                           |
-| Archi-Lens: Blockchain & Physical Digital Reality | Using blockchain to anchor augmented reality objects to the real world, and track construction projects against their project plans. | Ben Ismaili, Lim Zi Lian, and Yi Luk Goh     |
-
-### Post-graduate projects - 2020/21
+### Postgraduate projects
 
 | Project Topic                                                                                                                                                 | Avanade Trendline              | Topic                                           |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------------------------ | ----------------------------------------------- |
@@ -47,6 +51,16 @@ In the 2019/2020 academic year, we partnered on the following projects:
 | How might we create the workplace of the future that's engaging and delights our employees?                                                                   | Intelligence meets design      | Engaging future employees                       |
 
 We hope to publish more information at the end of these projects.
+
+#### 2019/20
+
+In the 2019/2020 academic year, we partnered on the following projects:
+
+| Title                                             | Description                                                                                                                          | Team                                         | Link                                                                                         |
+| ------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------- | -------------------------------------------------------------------------------------------- |
+| Gamification of Learning                          | Exploring Situated Cognition in Education using Virtual Reality with Microsoft Azure & Unity.                                        | Andrei Lazar, Emil Almazov, and Yaoning Yang | [Repository at the Apperta Foundation](https://github.com/AppertaFoundation/IXN_Learning360) |
+| Wearables and the Modern Workplace                | Using wearables to improve resource allocations in the Modern Workplace                                                              | Valentin Gorbunov, Yusen Li, and Yuxuan Liao | [GitHub Repository](https://github.com/Shadowhusky/SmartWorkSpace)                           |
+| Archi-Lens: Blockchain & Physical Digital Reality | Using blockchain to anchor augmented reality objects to the real world, and track construction projects against their project plans. | Ben Ismaili, Lim Zi Lian, and Yi Luk Goh     |
 
 ## Links
 

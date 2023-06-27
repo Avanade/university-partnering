@@ -7,7 +7,7 @@ The projects we work on with UCL relate to our [Avanade Trendlines](https://www.
 ## Project Types
 ### 2022-2023
 
-To be uploaded by the end of August 2023.
+To be uploaded by the end of August 2023. Internal employees can see [current projects on the intranet](https://aka.avanade.com/academic_partnering).
 
 ### 2021/22
 

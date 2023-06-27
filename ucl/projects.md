@@ -5,6 +5,9 @@ The Emerging Technology team at Avanade partners with UCL via the Industry Excha
 The projects we work on with UCL relate to our [Avanade Trendlines](https://www.avanade.com/en/thinking/research-and-insights/trendlines).
 
 ## Project Types
+### 2022-2023
+
+To be uploaded by the end of August 2023.
 
 ### 2021/22
 

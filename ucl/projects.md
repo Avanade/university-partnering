@@ -5,9 +5,19 @@ The Emerging Technology team at Avanade partners with UCL via the Industry Excha
 The projects we work on with UCL relate to our [Avanade Trendlines](https://www.avanade.com/en/thinking/research-and-insights/trendlines).
 
 ## Project Types
-### 2022-2023
+### 2023-2024
 
-To be uploaded by the end of August 2023. Internal employees can see [current projects on the intranet](https://aka.avanade.com/academic_partnering).
+To be uploaded by the end of August 2024. Internal employees can see [current projects on the intranet](https://aka.avanade.com/academic_partnering).
+
+### 2022/23
+
+#### Undergraduate Projects
+
+| Title                      | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                           | Team                                                                                             | Project Website                                       |
+|----------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------|-------------------------------------------------------|
+| Carbon Analysis with Volvo | A case study on Volvo Cars to see how green SW in Volvo could reduce carbon emissions generated in online sales. The hypothesis is that if we could reduce carbon emissions in each transactions the large volume would generate a great impact. We would also like to understand how (Data AI) predictions can be used to to give fact based information's for decisions. A prototype to measure the carbon emissions related to software, as well as a dashboard to visualise this. | Samuel Lubrano, Ramit Bag, Junzhang Li, Tianxiang Xiong                                          | https://students.cs.ucl.ac.uk/2022/group22/index.html |
+| ItchyAI                    | Our goal for this project is to develop a machine learning system that can detect when a person with quadriplegia is experiencing an itch on their face. By using sensors and machine learning algorithms, we hope to create a system that can accurately identify an itch in real-time and alert the person or a caregiver so that appropriate action can be taken to alleviate the discomfort.                                                                                      | Ruochong Yao, Yubin Lee, Lucas Marrie                                                            | https://students.cs.ucl.ac.uk/2022/group21/           |
+| Water Beats                | WaterBeats is a self-contained solution for data-driven farming. It is designed to be highly scalable, reliable, and usable without advanced knowledge. It has its own data and rule processing engine connected to a multi-featured web interface without relying on Azure or FarmBeats API.                                                                                                                                                                                         | Alfie Liu, Steven Ball, Sean Shi, Xibo Wang, Thanatad Songpetchmongkol, Phonarnun Tatiyamaneekul | https://github.com/diffthanatad/WaterBeats            |
 
 ### 2021/22
 
